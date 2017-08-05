@@ -1,4 +1,5 @@
 # Copyright (c) 2017, Bruno Ruas de Pinho
+# https://github.com/brunorpinho/asterl1t-processing
 # brunorpinho10@gmail.com
 
 import pandas as pd
