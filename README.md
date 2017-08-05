@@ -1,5 +1,5 @@
 
-A script to calculate reflectance from "ASTER_L1T .hdf" files. It also import the results into a 3-dimensional array using rasterio.
+A script to calculate reflectance and radiance from ASTER L1T images (hdf files). It also import the results into a 3-dimensional array using rasterio.
     
 All bands are reprojected to a desired shape and CRS.
 
