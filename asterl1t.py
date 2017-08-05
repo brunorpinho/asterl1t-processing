@@ -1,3 +1,6 @@
+# Copyright (c) 2017, Bruno Ruas de Pinho
+# brunorpinho10@gmail.com
+
 import pandas as pd
 import gdal
 import rasterio

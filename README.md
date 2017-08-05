@@ -1,10 +1,12 @@
+# README
 
-A script to calculates reflectance from "ASTER_L1T .hdf" files. It also import results into a 3-dimensional array using rasterio.
+A script to calculate reflectance from "ASTER_L1T .hdf" files. It also import the results into a 3-dimensional array using rasterio.
     
-All bands are reprojected to the desired shape using the desired CRS.
+All bands are reprojected to a desired shape and CRS.
 
 Source shape and transform is calculated directly from the input file.
 
-# Note
+## Note
 
 Please, consider donation if you are profiting from this script.
+author: Bruno Ruas de Pinho - brunorpinho10@gmail.com
