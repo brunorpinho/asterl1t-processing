@@ -13,4 +13,4 @@ author: Bruno Ruas de Pinho - brunorpinho10@gmail.com
 
 # TODO
 
-* 
+* Transform into a Python package
