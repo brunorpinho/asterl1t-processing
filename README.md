@@ -10,3 +10,7 @@ Source shape and transform is calculated directly from the input file.
 
 Please, consider donation if you are profiting from this script.
 author: Bruno Ruas de Pinho - brunorpinho10@gmail.com
+
+# TODO
+
+* 
