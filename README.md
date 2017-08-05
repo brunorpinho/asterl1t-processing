@@ -3,7 +3,7 @@ A script to calculate reflectance from "ASTER_L1T .hdf" files. It also import th
     
 All bands are reprojected to a desired shape and CRS.
 
-Source shape and transform is calculated directly from the input file.
+Source shape and transform are calculated directly from the input file.
 
 ## Note
 
