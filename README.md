@@ -22,4 +22,4 @@ author: Bruno Ruas de Pinho - brunorpinho10@gmail.com
 
 ## Cite As
 
-Bruno Ruas De Pinho. (2017, September 10). brunorpinho/asterl1t-processing: A script to calculate reflectance and radiance from ASTER L1T images (hdf files). Zenodo. http://doi.org/10.5281/zenodo.888270
+De Pinho, Bruno. (2017, September 10). brunorpinho/asterl1t-processing: A Python script to calculate reflectance and radiance from ASTER L1T images (hdf files). Zenodo. http://doi.org/10.5281/zenodo.888270
