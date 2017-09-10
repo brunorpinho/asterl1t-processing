@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.888270.svg)](https://doi.org/10.5281/zenodo.888270)
 
 A script to calculate reflectance and radiance from ASTER L1T images (hdf files). It also import the results into a 3-dimensional array using rasterio.
     
@@ -18,3 +19,9 @@ author: Bruno Ruas de Pinho - brunorpinho10@gmail.com
 
 * Clean up the code
 * Transform into a Python package
+
+## Cite As
+
+Cite as
+
+Bruno Ruas De Pinho. (2017, September 10). brunorpinho/asterl1t-processing: A script to calculate reflectance and radiance from ASTER L1T images (hdf files). Zenodo. http://doi.org/10.5281/zenodo.888270
